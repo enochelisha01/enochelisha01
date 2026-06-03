@@ -1,10 +1,10 @@
-- 👋👀 I’m interested in natural language processing and distributed systems. I’m also interested in learning more about cybersecurity and data privacy.
-🌱 I’m currently learning Object Oriented programming  language and improving my data analysis skills.
-💞️ I’m looking to collaborate on open-source projects related to natural language processing. I’m also interested in contributing to projects that focus on accessibility and inclusivity in technology.
-📫 How to reach me: You can find me on GitHub, Instagram, or Twitter. My DMs are always open for questions, discussions, or collaboration opportunities.
-😄 Pronouns: I/You
-⚡ Fun fact: I can solve a Rubik’s cube in under 2 minutes!
-<!---
-enochelisha01/enochelisha01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Enoch-Elisha
+##Software Engineering student
+I am a Software Engineer with a strong focus on Frontend Development and Project Management, passionate about building user-centered digital solutions that combine functionality, performance, and exceptional user experiences. My expertise includes developing responsive and scalable web and mobile applications using modern technologies such as Flutter (Dart), JavaScript, HTML, CSS, and frontend frameworks, and I enjoy transforming complex requirements into intuitive interfaces that are both visually appealing and easy to use. Beyond development, I have experience in project planning, requirements gathering and analysis, stakeholder communication, and team coordination, and I am skilled at managing software projects throughout their lifecycle using both Agile and Waterfall methodologies to ensure solutions are delivered on time, within scope, and aligned with business objectives. My core strengths span frontend development, project management and team collaboration, problem solving, and critical thinking. I am particularly interested in product design, digital transformation, and emerging technologies, and I continuously seek opportunities to learn, innovate, and contribute to projects that create meaningful impact. I am always open to connecting with professionals, collaborating on innovative projects, and exploring opportunities that drive technological growth and business success.
+##Tech stack and tools
+Frontend: Flutter
+Backend: Supabase
+Collaboration: Git,Version Control and GitHub
+Mobile Development:Android studio
+IDE:VsCode and Android studio
+##Experience
